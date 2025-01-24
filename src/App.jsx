@@ -93,7 +93,7 @@ function App() {
                 <header className="header-section">
                   <div className="header-content">
                     <h1>Welcome to my Portfolio</h1>
-                    <h2>Hi, I'm Kris Jan Melvin D. Yu 
+                    <h2>Hi, I'm Kris Jan Melvin D. Yu <br />
                       A 3rd Year BSIT student in CIT-U
                     </h2>
                     <div className="animated-circle"></div>
@@ -107,11 +107,9 @@ function App() {
                   <Container>
                     <h3>Web Design</h3>
                     <p>
-                      Lorem Ipsum is simply dummy text of the printing and
-                      typesetting industry. Lorem Ipsum has been the industry's
-                      standard dummy text ever since the 1500s, when an unknown
-                      printer took a galley of type and scrambled it to make a
-                      type specimen book.
+                    I am a 3rd Year BSIT student at CIT-U, passionate about technology and aspiring to become a Network Engineer. <br />
+                    While skilled in web development, UI/UX, React, JavaScript, HTML, and CSS, I am now focusing on networking. <br />
+                    I’m learning TCP/IP, DNS, routing, and switching, and aiming for certifications like CCNA. My goal is to design and manage secure, efficient networks while leveraging my programming background..
                     </p>
                     <Button variant="primary" className="connect-button">
                       Let's connect
