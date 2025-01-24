@@ -93,7 +93,9 @@ function App() {
                 <header className="header-section">
                   <div className="header-content">
                     <h1>Welcome to my Portfolio</h1>
-                    <h2>Hi, I'm webdecoded</h2>
+                    <h2>Hi, I'm Kris Jan Melvin D. Yu 
+                      A 3rd Year BSIT student in CIT-U
+                    </h2>
                     <div className="animated-circle"></div>
                     <div className="animated-circle delay-1"></div>
                     <div className="animated-circle delay-2"></div>
